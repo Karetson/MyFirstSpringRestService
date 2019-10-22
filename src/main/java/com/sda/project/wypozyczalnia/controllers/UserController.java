@@ -1,6 +1,5 @@
 package com.sda.project.wypozyczalnia.controllers;
 
-import com.sda.project.wypozyczalnia.model.Equipment;
 import com.sda.project.wypozyczalnia.model.User;
 import com.sda.project.wypozyczalnia.services.UserService;
 import org.hibernate.ObjectNotFoundException;
